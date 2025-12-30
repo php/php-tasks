@@ -1,1 +1,1 @@
-This repository is only used for the issue tracker. It collects php-src maintenance tasks that need to be performed. It is NOT an end-user bug tracker. If you want to report a bug or feature request for PHP, go to https://bugs.php.net/.
+This repository is only used for the issue tracker. It collects php-src maintenance tasks that need to be performed. It is NOT an end-user bug tracker. If you want to report a bug or feature request for PHP, go to https://github.com/php/php-src/issues.
